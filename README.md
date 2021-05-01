@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @manddar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mandar Oak ( @manddar on Github, Twitter, Facebook, Instagram )
+- 👀 I’m interested in Programming, Travelling & Photography
+- 🌱 I’m currently learning Python / Stock Trading
+- 💞️ I’m looking to collaborate on automating trading srategies
+- 📫 How to reach me - DM me on twitter
 
 <!---
 manddar/manddar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
